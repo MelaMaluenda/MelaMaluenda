@@ -55,18 +55,24 @@ I apologize for having most of my repositories on private viewing. Don't let tha
 </p>
  <h3> ◇ Testing ◇ </h3>
 <p>
+ <a href="https://testing-library.com/docs/react-testing-library/intro/" rel="noreferrer"> <img src="https://i.ibb.co/1zBvJ2j/REACT-TESTING-LIBRARY.png" alt="React Testing Library" width="150" height="130"/> </a>
  <a href="https://mswjs.io/" rel="noreferrer"> <img src="https://i.ibb.co/kgHCKZV/MSW.png" alt="MSW" width="150" height="130"/> </a>
  <a href="https://jestjs.io/" rel="noreferrer"> <img src="https://i.ibb.co/W6q9XDv/JEST.png" alt="Jest" width="150" height="130"/> </a>
  <a href="https://vitest.dev/" rel="noreferrer"> <img src="https://i.ibb.co/92Z4BsT/VITEST.png" alt="Vitest" width="150" height="130"/> </a>
+ <a href="https://www.npmjs.com/package/supertest?activeTab=readme" rel="noreferrer"> <img src="https://i.ibb.co/5cL2qHc/SUPERTEST.png" alt="Supertest" width="150" height="130"/> </a>
+ <a href="https://dev.to/steckdev/test-driven-development-uncle-bob-1ck3" rel="noreferrer"> <img src="https://i.ibb.co/09TwKc1/TDD.png" alt="TDD" width="150" height="130"/> </a>
  <a href="https://docs.cypress.io/guides/end-to-end-testing/writing-your-first-end-to-end-test" rel="noreferrer"> <img src="https://i.ibb.co/LJRTZCb/CYPRESS.png" alt="Cypress" width="150" height="130"/> </a>
+  <a href="https://www.sonarsource.com/products/sonarcloud/" rel="noreferrer"> <img src="https://i.ibb.co/r65HQXb/SONAR-CLOUD.png" alt="Sonar Cloud" width="150" height="130"/> </a>
+ <a href="https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=ca&pli=1" rel="noreferrer"> <img src="https://i.ibb.co/nD3VK2C/LIGHTHOUSE.png" alt="Lighthouse" width="150" height="130"/> </a>
 </p>
  <h3> ◇ Best Practices ◇ </h3>
 <p>
  <a href="https://github.com/features/actions" rel="noreferrer"> <img src="https://i.ibb.co/c88zSrC/GITHUB-ACTIONS-M.png" alt="GitHub Actions" width="150" height="130"/> </a>
+ <a href="https://www.npmjs.com/" rel="noreferrer"> <img src="https://i.ibb.co/D9PJR7M/NPM.png" alt="NPM" width="150" height="130"/> </a>
  <a href="https://unity.com/es/solutions/what-ci-cd" rel="noreferrer"> <img src="https://i.ibb.co/McnD325/CI-CD.png" alt="CI/CD" width="150" height="130"/> </a> 
  <a href="https://eslint.org/" rel="noreferrer"> <img src="https://i.ibb.co/KGrqhMn/ESLINT.png" alt="Eslint" width="150" height="130"/> </a>
- <a href="https://prettier.io/" rel="noreferrer"> <img src="https://i.ibb.co/RCYQbYD/PRETTIER.png" alt="Prettier" width="150" height="130"/> </a> 
- <a href="https://www.scrummanager.com/website/" rel="noreferrer"> <img src="https://i.ibb.co/9NvTGdh/scrum.png" alt="Figma" width="150" height="130"/> </a>
+ <a href="https://prettier.io/" rel="noreferrer"> <img src="https://i.ibb.co/RCYQbYD/PRETTIER.png" alt="Prettier" width="150" height="130"/> </a>
+ <a href="https://www.scrummanager.com/website/" rel="noreferrer"> <img src="https://i.ibb.co/9NvTGdh/scrum.png" alt="Scrum" width="150" height="130"/> </a>
 </p>
 </div>
 
