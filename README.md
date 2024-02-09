@@ -29,6 +29,11 @@ I apologize for having most of my repositories on private viewing. Don't let tha
 <div align="center">
 <h2> ❖ STACK ❖ </h2>
 <h3> ◇ Front End ◇ </h3>
+<p> 
+ <a href="https://html.spec.whatwg.org/multipage/" rel="noreferrer"> <img src="https://i.ibb.co/8X7WKfp/HTML5.png" alt="HTML5" width="200" height="150"/> </a> <a href="https://www.w3.org/TR/CSS22/" rel="noreferrer"> <img src="https://i.ibb.co/WBk5vQ0/CSS.png" alt="CSS" width="200" height="150"/> </a> <a href="https://sass-lang.com/documentation/" rel="noreferrer"> <img src="https://i.ibb.co/9wDKYrz/SASS.png" alt="Sass" width="200" height="150"/> </a> <a href="https://styled-components.com/" rel="noreferrer"> <img src="https://i.ibb.co/SPz7qrZ/STYLED-COMPONENTS.png" alt="Styled Components" width="200" height="150"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide" rel="noreferrer"> <img src="https://i.ibb.co/R0XYFV7/JAVASCRIPT.png" alt="JavaScript" width="200" height="150"/> </a> <a href="https://es.react.dev/" rel="noreferrer"> <img src="https://i.ibb.co/ZhNqMzc/REACT.png" alt="React" width="200" height="150"/> </a> <a href="https://redux-toolkit.js.org/" rel="noreferrer"> <img src="https://i.ibb.co/RyyD1tt/REDUX-TOOLKIT.png" alt="Redux Toolkit" width="200" height="150"/> </a> <a href="https://axios-http.com/es/docs/intro" rel="noreferrer"> <img src="https://i.ibb.co/wJg5YQB/AXIOS.png" alt="Axios" width="200" height="150"/> </a> <a href="https://docs.github.com/es/rest" rel="noreferrer"> <img src="https://i.ibb.co/KrpxkXy/API-REST.png" alt="Api" width="200" height="150"/> </a> <a href="https://www.netlify.com/" rel="noreferrer"> <img src="https://i.ibb.co/XybwRHn/NETLIFY.png" alt="Netlify" width="200" height="150"/> </a> <a href="https://vercel.com/" rel="noreferrer"> <img src="https://i.ibb.co/jL3d949/VERCEL-C.png" alt="Vercel" width="200" height="150"/> </a> <a href="https://www.figma.com/" rel="noreferrer"> <img src="https://i.ibb.co/6mNd8Rs/FIGMA.png" alt="Figma" width="200" height="150"/> </a> 
+
+
+</p>
 
  
 </div>
