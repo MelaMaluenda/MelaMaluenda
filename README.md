@@ -44,6 +44,7 @@ I apologize for having most of my repositories on private viewing. Don't let tha
  <a href="https://www.netlify.com/" rel="noreferrer"> <img src="https://i.ibb.co/XybwRHn/NETLIFY.png" alt="Netlify" width="150" height="130"/> </a>
  <a href="https://vercel.com/" rel="noreferrer"> <img src="https://i.ibb.co/jL3d949/VERCEL-C.png" alt="Vercel" width="150" height="130"/> </a>
  <a href="https://www.figma.com/" rel="noreferrer"> <img src="https://i.ibb.co/6mNd8Rs/FIGMA.png" alt="Figma" width="150" height="130"/> </a>
+ <a href="https://trello.com/es" rel="noreferrer"> <img src="https://i.ibb.co/S7nVsJk/TRELLO.png" alt="Trello" width="150" height="130"/> </a> 
 </p>
  <h3> ◇ Back End ◇ </h3>
 <p>
@@ -66,7 +67,6 @@ I apologize for having most of my repositories on private viewing. Don't let tha
  <a href="https://eslint.org/" rel="noreferrer"> <img src="https://i.ibb.co/KGrqhMn/ESLINT.png" alt="Eslint" width="150" height="130"/> </a>
  <a href="https://prettier.io/" rel="noreferrer"> <img src="https://i.ibb.co/RCYQbYD/PRETTIER.png" alt="Prettier" width="150" height="130"/> </a> 
  <a href="https://www.scrummanager.com/website/" rel="noreferrer"> <img src="https://i.ibb.co/9NvTGdh/scrum.png" alt="Figma" width="150" height="130"/> </a>
- <a href="https://trello.com/es" rel="noreferrer"> <img src="https://i.ibb.co/S7nVsJk/TRELLO.png" alt="Trello" width="150" height="130"/> </a> 
 </p>
 </div>
 
