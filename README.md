@@ -42,10 +42,13 @@ I apologize for having most of my repositories on private viewing. Don't let tha
  <a href="https://www.netlify.com/" rel="noreferrer"> <img src="https://i.ibb.co/XybwRHn/NETLIFY.png" alt="Netlify" width="150" height="130"/> </a>
  <a href="https://vercel.com/" rel="noreferrer"> <img src="https://i.ibb.co/jL3d949/VERCEL-C.png" alt="Vercel" width="150" height="130"/> </a>
  <a href="https://www.figma.com/" rel="noreferrer"> <img src="https://i.ibb.co/6mNd8Rs/FIGMA.png" alt="Figma" width="150" height="130"/> </a> 
-
-
 </p>
-
- 
+ <h3> ◇ Back End ◇ </h3>
+<p>
+ <a href="https://expressjs.com/" rel="noreferrer"> <img src="https://i.ibb.co/wdWn2mM/EXPRESS.png" alt="Express" width="150" height="130"/> </a>
+ <a href="https://nodejs.org/en" rel="noreferrer"> <img src="https://i.ibb.co/1Z4njyN/NODE-JS.png" alt="Node" width="150" height="130"/> </a>
+ <a href="https://www.mongodb.com/es" rel="noreferrer"> <img src="https://i.ibb.co/n15CqtL/MONGO-DB.png" alt="MongoDB" width="150" height="130"/> </a>
+ <a href="https://www.postman.com/" rel="noreferrer"> <img src="https://i.ibb.co/hsc6kCF/POSTMAN.png" alt="Postman" width="150" height="130"/> </a>
+</p>
 </div>
 
