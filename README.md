@@ -30,7 +30,7 @@ I apologize for having most of my repositories on private viewing. Don't let tha
 <h2> ❖ STACK ❖ </h2>
 <h3> ◇ Front End ◇ </h3>
 <p> 
- <a href="https://html.spec.whatwg.org/multipage/" rel="noreferrer"> <img src="https://i.ibb.co/8X7WKfp/HTML5.png" alt="HTML5" width="150" height="130"/> </a>
+ <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/8X7WKfp/HTML5.png" alt="HTML5" width="150" height="130"/> </a>
  <a href="https://www.w3.org/TR/CSS22/" rel="noreferrer"> <img src="https://i.ibb.co/WBk5vQ0/CSS.png" alt="CSS" width="150" height="130"/> </a> 
  <a href="https://sass-lang.com/documentation/" rel="noreferrer"> <img src="https://i.ibb.co/9wDKYrz/SASS.png" alt="Sass" width="150" height="130"/> </a>
  <a href="https://styled-components.com/" rel="noreferrer"> <img src="https://i.ibb.co/SPz7qrZ/STYLED-COMPONENTS.png" alt="Styled Components" width="150" height="130"/> </a>
