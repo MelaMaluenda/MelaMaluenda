@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">Mela Maluenda</h1>
+<h2 align="center">🚀 Full Stack Web Developer 🚀</h2>
 
-<!--
-**MelaMaluenda/MelaMaluenda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my github profile,
 
-Here are some ideas to get you started:
+A couple of years ago I became interested in web development and started studying programming at UOC and at ISDI Coders Full Stack bootcamp, formerly Skylab. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background ranges from coordinating tv programs to scripting for youth series and books. I'm passionate about translating ideas into code and creating digital experiences, with a proactive approach and interpersonal skills.
+
+I apologize for having most of my repositories on private viewing. Don't let that stop you from contacting me in case you want to know more or even collaborate together. Shall we talk about code?
+
+<div>
+💻 Key Skills:
+ <br>
+◆ Full-stack web development
+   <br>
+◆ Project coordination and management
+   <br>
+◆ Creative writing and storytelling
+   <br>
+◆ Emotional education and promotion of reading
+   <br>
+   <br>
+🌐 Languages: Spanish and Catalan (native), English (conversational).
+</div>
