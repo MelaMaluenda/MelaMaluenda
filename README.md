@@ -72,7 +72,6 @@ I apologize for having most of my repositories on private viewing. Don't let tha
  <a href="https://unity.com/es/solutions/what-ci-cd" rel="noreferrer"> <img src="https://i.ibb.co/McnD325/CI-CD.png" alt="CI/CD" width="150" height="130"/> </a> 
  <a href="https://eslint.org/" rel="noreferrer"> <img src="https://i.ibb.co/KGrqhMn/ESLINT.png" alt="Eslint" width="150" height="130"/> </a>
  <a href="https://prettier.io/" rel="noreferrer"> <img src="https://i.ibb.co/RCYQbYD/PRETTIER.png" alt="Prettier" width="150" height="130"/> </a> 
- <a href="https://www.scrummanager.com/website/" rel="noreferrer"> <img src="https://i.ibb.co/9NvTGdh/scrum.png" alt="Scrum" width="150" height="130"/> </a>
  <a href="https://trello.com/es" rel="noreferrer"> <img src="https://i.ibb.co/S7nVsJk/TRELLO.png" alt="Trello" width="150" height="130"/> </a>
  <a href="https://www.figma.com/" rel="noreferrer"> <img src="https://i.ibb.co/6mNd8Rs/FIGMA.png" alt="Figma" width="150" height="130"/> </a>
 </p>
