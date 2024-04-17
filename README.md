@@ -1,5 +1,5 @@
 <h1 align="center">Mela Maluenda</h1>
-<h2 align="center">🚀 Full Stack Web Developer 🚀</h2>
+<h2 align="center">🚀 Front End Web Developer 🚀</h2>
 
 Welcome to my github profile,
 
@@ -12,7 +12,7 @@ I apologize for having most of my repositories on private viewing. Don't let tha
 <div>
 💻 Key Skills:
  <br>
-◆ Full-stack web development.
+◆ Front-end web development.
    <br>
 ◆ Project coordination and management.
    <br>
